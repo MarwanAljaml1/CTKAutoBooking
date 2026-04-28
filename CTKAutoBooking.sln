@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTKAutoBooking", "CTKAutoBooking\CTKAutoBooking.csproj", "{4035736F-520C-47FB-81DC-E2D42FCF5E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4035736F-520C-47FB-81DC-E2D42FCF5E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4035736F-520C-47FB-81DC-E2D42FCF5E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4035736F-520C-47FB-81DC-E2D42FCF5E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4035736F-520C-47FB-81DC-E2D42FCF5E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18FA9195-D692-4113-A5FC-C094A4390594}
+	EndGlobalSection
+EndGlobal

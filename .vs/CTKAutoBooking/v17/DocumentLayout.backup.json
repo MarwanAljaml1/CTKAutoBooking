@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OmarEhmaide\\source\\repos\\CTKAutoBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4035736F-520C-47FB-81DC-E2D42FCF5E6A}|CTKAutoBooking\\CTKAutoBooking.csproj|c:\\users\\omarehmaide\\source\\repos\\ctkautobooking\\ctkautobooking\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4035736F-520C-47FB-81DC-E2D42FCF5E6A}|CTKAutoBooking\\CTKAutoBooking.csproj|solutionrelative:ctkautobooking\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\OmarEhmaide\\source\\repos\\CTKAutoBooking\\CTKAutoBooking\\Class1.cs",
+              "RelativeDocumentMoniker": "CTKAutoBooking\\Class1.cs",
+              "ToolTip": "C:\\Users\\OmarEhmaide\\source\\repos\\CTKAutoBooking\\CTKAutoBooking\\Class1.cs",
+              "RelativeToolTip": "CTKAutoBooking\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T17:59:38.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
